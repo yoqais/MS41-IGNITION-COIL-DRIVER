@@ -1,6 +1,6 @@
 # MS41 Ignition Coil Drivers Guide
 
-This guide covers the ignition coil drivers used in **BMW MS41.0** , **MS41.1** , **MS41.2**  ECUs — specifically focusing on their function, common failure points, and tested replacement parts.
+This guide covers the ignition coil drivers used in **BMW MS41.0** , **MS41.1** , **MS41.2**  ECUs - specifically focusing on their function, common failure points, and tested replacement parts.
 
 ---
 
@@ -8,14 +8,14 @@ This guide covers the ignition coil drivers used in **BMW MS41.0** , **MS41.1** 
 
 The **MS41** series ECUs use high-voltage **IGBT (Insulated Gate Bipolar Transistor)** ignition coil drivers to control spark output across all cylinders.
 
-One of the most common IGBT components used in these ECUs is the **STP8055** — a single-channel automotive ignition driver transistor. While reliable in stock form, these drivers are known weak points in aging ECUs.
+One of the most common IGBT components used in these ECUs is the **STP8055** . a single-channel automotive ignition driver transistor. While reliable in stock form, these drivers are known weak points in aging ECUs.
 
 ---
 
 ## ⚙️ Identifying the Ignition Driver
 
 Most stock MS41 ECUs originally came with **STP8055** ignition drivers.  
-These are often marked with codes like **R720** or **R811** — which **do not** indicate the electrical specifications of the part.  
+These are often marked with codes like **R720** or **R811** - which **do not** indicate the electrical specifications of the part.  
 Instead, they are internal manufacturing codes representing the **date, batch, and production location**.
 
 ---
